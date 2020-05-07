@@ -1,11 +1,8 @@
-# Tableau Content
-**NOTE**: Week 1 and Week 2 need to be completed within 14 days of the Tableau Desktop Trial download. Week 3 uses Tableau Public and is not strictly timebound. 
-
 ## Week 1: Tableau Desktop 1, Fundamentals
 
 #### Time estimate: 10+ hours
 
-### Objectives, students will be able to:
+### Learning goals:
 - Edit and save a data source.
 - Understand Tableau terminology.
 - Use the Tableau interface / paradigm to effectively create powerful visualizations.
@@ -21,8 +18,10 @@
   - Scatter Plots
   - Build dashboards to share visualizations.
 
-### Instructions
+### Main Activity
 **Step 1**: Use [this link](https://www.tableau.com/products/desktop/download) to download and activate the 14 day free trial of Tableau Desktop. 
+
+**NOTE**: Week 1 and Week 2 need to be completed within 14 days of the Tableau Desktop Trial download. 
 
 **Step 2**: Go to [Tableau elearning](https://elearning.tableau.com/) and create an account using the code **2020elearning**. This code gives you free access to Tableau elearning for 90 days. 
 
