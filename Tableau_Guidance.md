@@ -3,6 +3,8 @@
 
 ## Week 1: Tableau Desktop 1, Fundamentals
 
+#### Time estimate: 10+ hours
+
 ### Objectives, students will be able to:
 - Edit and save a data source.
 - Understand Tableau terminology.
@@ -27,47 +29,3 @@
 **Step 3**: Log into Tableau elearning and find the course [Tableau Desktop Fundamentals](https://elearning.tableau.com/desktop-i-fundamentals). 
 
 **Step 4**: Go through the course Tableau Desktop Fundamentals, using the _Tableau Desktop_ and the notebooks provided through the course to follow along and complete the course.
-
-
-
-## Week 2: Tableau Desktop 2, Intermediate
-
-### Objectives, students will be able to:
-- Build advanced chart types and visualizations.
-- Build complex calculations to manipulate your data.
-- Use statistical techniques to analyze your data.
-- Use parameters and input controls to give users control over specific values.
-- Implement advanced geographic mapping techniques and use custom images and geocoding to build spatial visualizations of non-geographic data.
-- Prep your data for analysis.
-- Combine data sources using data blending.
-- Combine data from multiple tables in the same data source using joins.
-- Make your visualizations perform as well as possible by using the Data Engine, extracts, and efficient connection methods.
-- Build better dashboards using techniques for guided analytics, interactive dashboard design, and visual best practices.
-
-### Instructions
-**Step 1**: Log into Tableau elearning and find the course  [Tableau Desktop 2, Intermediate](https://elearning.tableau.com/desktop-ii-intermediate)
-
-**Step 2**: Go through the course Tableau Desktop Fundamentals, using the _Tableau Desktop_ and the notebooks provided through the course to follow along and complete the course.
-
-## Week 3: Tableau, Project
-### Objectives, students will be able to:
-- Create and showcase an interactive Tableau dashboard on Tableau Public
-
-### Instructions
-**Step 1**: Go to [Tableau Public](https://public.tableau.com/en-us/s/) to download the app. Tableau Public is a _public_ version of Tableau Desktop. The main difference is that Public saves your content to the _cloud_ and Desktop allows you to save files _locally_. Follow the necessary steps to install Tableau Public on your computer.
-
-**Step 2**: Create an account on [data.world](https://data.world/)
-
-**Step 3**: Open Tableau Public, on the Connect tab, Under "To a Server", click "more", then search "web" and from the returned results, click "Web Data Connector"
-
-**Step 4**: In the "Web Data Connector" box type "tableau.data.world" and then enter. Follow all directions to connect Tableau to data.world.
-
-**Step 5**: Search for the "Austin Animal Center" datasets published by the city of Austin. Follow the directions to add the  outcomes dataset as a connection to your Tableau Workbook.
-
-**Step 6**: Repat step 4, but with the "intakes" dataset. The resulting Tableau Public workbook should have two connections, each containing one table.
-
-**Step 7**: Join the tables on Animal Id
-
-**Step 8**: Create a meaningful dashboard that would allow admins at the center to track admissions of dogs and cats from the past 3 years (2020 inclusive) and find any meaningful patters involving breed and age to help them get more animals adopted.
-
-**Step 9**: Publish your dashboard on Tableau Public, and add link to your portfolio.
