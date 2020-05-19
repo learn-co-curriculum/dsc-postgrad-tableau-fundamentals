@@ -31,7 +31,7 @@ You will be able to:
 
 **Step 3**: Log into Tableau elearning and find the course [Tableau Desktop Fundamentals](https://elearning.tableau.com/desktop-i-fundamentals). 
 
-**Step 4**: Go through the course Tableau Desktop Fundamentals, using the _Tableau Desktop_ and the notebooks provided through the course to follow along and complete the course.
+**Step 4**: Go through the course Tableau Desktop Fundamentals, using _Tableau Desktop_ and the notebooks provided through the course to follow along and complete the course.
 
 ## Summary
 Congratulations - you took your first Tableau steps! You'll learn more later on, where you'll explore other Tableau features like how to build advanced charts, perform complex data manipulations, and more!
