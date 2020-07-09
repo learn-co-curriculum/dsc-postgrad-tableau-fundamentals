@@ -27,7 +27,7 @@ You will be able to:
 
 > **NOTE**: You'll need to complete this learn track's Tableau content (Tableau Fundamentals and Intermediate Tableau, scheduled for week 2) within the 14 days of the Tableau Desktop Trial download, so don't sign up until you know you can commit the time!
 
-**Step 2**: Go to [Tableau elearning](https://elearning.tableau.com/) and create an account using the code **2020elearning**. This code gives you free access to Tableau elearning for 90 days. 
+**Step 2**: Go to [Tableau elearning](https://elearning.tableau.com/) and create an account using the code **2020elearning**. This code gives you free access to Tableau elearning for 90 days. **Update from Flatiron School's curriculum team on 07/09/2020: It seems like this promo code is no longer active. While working on a new Tableau solution for the Data Science Post-Work going forward, we still wanted to leave this in here as Tableau is widely used, yet be aware that getting a license will not be free of charge but will cost 120USD for 1 year. We apologize for the inconvenience.**
 
 **Step 3**: Log into Tableau elearning and find the course [Tableau Desktop Fundamentals](https://elearning.tableau.com/desktop-i-fundamentals). 
 
