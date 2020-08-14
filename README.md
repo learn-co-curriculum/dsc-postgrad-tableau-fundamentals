@@ -1,7 +1,7 @@
 # Tableau Fundamentals
 
 ## Introduction
-This lesson will guide you through Tableau's website to learn the fundamentals of Tableau Desctop. This lesson may seem short but be aware that going through the "Tableau Desktop: Fundamentals" will take you about 10 hours to complete. 
+This lesson will guide you through Tableau's website to learn the fundamentals of Tableau Desktop. This lesson may seem short but be aware that going through the "Tableau Desktop: Fundamentals" will take you about 10 hours to complete. 
 
 ## Objectives
 
